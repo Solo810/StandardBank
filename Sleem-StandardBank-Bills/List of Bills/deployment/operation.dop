@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="List of Bills">
+  <name>List-of-Bills</name>
+  <uuid>b19f3ef2-5030-4e91-81b3-c26aa322beee</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#94b98926-ec41-4b2c-b66c-0fd3a5dede77"/>
+  <targetRuleProject href="../../List%20of%20Bills#ce19f51d-e445-47b5-a60d-dbec0513e890"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["Get-List-of-Bills-Amounts"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
